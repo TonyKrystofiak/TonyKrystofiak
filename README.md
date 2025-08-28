@@ -1,6 +1,6 @@
 ### **Backend Development Intern at The Experts Tribe**  
 **Employment Type**: Part-Time  
-**Dates**: Feb 2025 – Present (5 months)  
+**Dates**: Feb 2025 – May 2025 (4 months)  
 **Location**: Remote  
 - Developed a hybrid database architecture combining NoSQL and SQL to balance security and data retrieval speed.  
 - Designed and developed a secure, scalable RESTful API to enable consistent client-server communication.  
