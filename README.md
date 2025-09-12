@@ -1,4 +1,4 @@
-### **Backend Development Intern at The Experts Tribe**  
+### **Full Stack Development Intern at The Experts Tribe**  
 **Employment Type**: Part-Time  
 **Dates**: Feb 2025 – May 2025 (4 months)  
 **Location**: Remote  
